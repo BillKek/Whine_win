@@ -6,7 +6,7 @@ White Noise Generator in C.
 
 **WARNING! Be careful while experimenting with this code. Loud sound may damage your hearing!**
 
-```console
+```console of MINGW32 MSYS2:
+$ pacman -S mingw-w64-i686-SDL2
 $ ./build.sh
-$ ./whine
 ```
