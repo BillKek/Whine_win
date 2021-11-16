@@ -1,6 +1,9 @@
 # Whine
 
-White Noise Generator in C.
+So called "White" Noise Generator in C.
+
+The C code was written on stream by Tsoding (You can watch the recording of the stream here - https://www.twitch.tv/videos/1204278928. Records are not kept there forever, they are deleted. )
+
 
 ## Quick Start
 
