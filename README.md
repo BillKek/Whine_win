@@ -9,7 +9,9 @@ The C code was written on stream by Tsoding (You can watch the recording of the 
 
 **WARNING! Be careful while experimenting with this code. Loud sound may damage your hearing!**
 
-```console of MINGW32 MSYS2:
+Console of MINGW32 MSYS2:
+```
 $ pacman -S mingw-w64-i686-SDL2
 $ ./build.sh
 ```
+`whine.exe` is ready.
