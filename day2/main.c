@@ -1,6 +1,7 @@
 #include <assert.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include "rand_r.c"
 #include <stdbool.h>
 #include <math.h>
 
