@@ -12,7 +12,7 @@ The second day of the stream on this topic is presented in the folder `day2`. Th
 
 **WARNING! Be careful while experimenting with this code. Loud sound may damage your hearing!**
 
-Console of MINGW32 MSYS2:
+Console of MINGW32 MSYS2 (MSYS2-team want to end support for windows 7. Therefore, MSYS2 will become useless):
 ```
 $ pacman -S mingw-w64-i686-SDL2
 $ ./build.sh
